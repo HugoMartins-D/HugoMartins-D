@@ -159,14 +159,6 @@ Websites institucionais, landing pages e sistemas personalizados para clientes d
 
 ---
 
-## 🧬 TOP LANGUAGES
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoMartins-D&layout=compact&bg_color=0D1117&title_color=FFFFFF&text_color=A1A1AA&border_color=27272A&border_radius=10&hide_border=false"/>
-</div>
-
----
-
 ## 📈 CONTRIBUTION GRAPH
 
 <div align="center">
