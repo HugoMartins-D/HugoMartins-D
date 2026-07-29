@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=A1A1AA&center=true&vCenter=true&width=640&lines=Fundador+%40+Code+Less;Design+Gr%C3%A1fico+%C3%97+Engenharia+Front-end;Construindo+o+NAVEX+Finance;Design+%2B+C%C3%B3digo+%3D+Produtos+Memor%C3%A1veis" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1200&color=A1A1AA&center=true&vCenter=true&width=640&lines=Fundador+%40+Code+Less;Design+Gr%C3%A1fico+%C3%97+Engenharia+Front-end;Em+constante+aprendizado;Design+%2B+C%C3%B3digo+%3D+Produtos+Memor%C3%A1veis" alt="Typing SVG" />
 </a>
 
 <br/><br/>
@@ -45,7 +45,7 @@ Para mim, um bom produto não é apenas bonito. Ele é **rápido**, **escalável
 | **Papel** | Founder @ Code Less |
 | **Origem** | Design Gráfico |
 | **Trajetória** | → Front-end Engineering |
-| **Construindo** | NAVEX Finance |
+| **Modo** | Aprendizado contínuo |
 | **Abordagem** | Design + Código |
 
 </td>
@@ -111,12 +111,6 @@ Esses elementos, combinados, é o que transforma uma interface em uma **experiê
 
 <br/><br/>
 
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=supabase&theme=dark" />
-
-<br/><br/>
-
 **Ferramentas & Deploy**
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel&theme=dark" />
@@ -142,63 +136,17 @@ Esses elementos, combinados, é o que transforma uma interface em uma **experiê
 
 ---
 
-## 🚀 PROJETOS EM DESTAQUE
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🌐 Code Less
-Websites institucionais, landing pages e sistemas personalizados, construídos sob medida para clientes reais.
-
-`Next.js` `React` `Tailwind CSS`
-
-<a href="https://www.codeleess.com.br">codeleess.com.br</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 💠 NAVEX Finance
-Sistema SaaS de gestão financeira moderna — meu projeto de maior escopo em produto até hoje.
-
-`Next.js` `Supabase` `TypeScript`
-
-Veja a seção dedicada abaixo ↓
-
-</td>
-</tr>
-</table>
-
----
-
-## 💠 NAVEX FINANCE
+## 🚀 PROJETOS
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/STATUS-EM_DESENVOLVIMENTO-A1A1AA?style=for-the-badge&labelColor=0D1117"/>
+Websites institucionais, landing pages e sistemas personalizados para clientes da **Code Less**.
 
-<br/><br/>
+`Next.js` `React` `TypeScript` `Tailwind CSS`
 
-### Um sistema moderno para gestão financeira.
-
-<br/>
-
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<a href="https://www.codeleess.com.br">codeleess.com.br</a>
 
 </div>
-
-<br/>
-
-| Pilar | Foco |
-|:--|:--|
-| **Interface** | Design premium, clara e orientada a dados |
-| **Arquitetura** | Escalável, tipada de ponta a ponta |
-| **Performance** | Carregamento rápido e experiência fluida |
-| **Backend** | Supabase como infraestrutura de dados e autenticação |
 
 ---
 
@@ -227,30 +175,73 @@ Veja a seção dedicada abaixo ↓
 
 ---
 
-## 📚 ATUALMENTE APRENDENDO
+## 📚 JORNADA DE APRENDIZADO
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/IA_aplicada_ao_desenvolvimento-A1A1AA?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Motion_UI_avançado-A1A1AA?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Design_Systems_escaláveis-A1A1AA?style=flat-square&labelColor=0D1117"/>
-<br/>
-<img src="https://img.shields.io/badge/Arquitetura_de_SaaS-A1A1AA?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Acessibilidade_(WCAG)-A1A1AA?style=flat-square&labelColor=0D1117"/>
-<img src="https://img.shields.io/badge/Performance_(Core_Web_Vitals)-A1A1AA?style=flat-square&labelColor=0D1117"/>
+**Migrar do Design para a Engenharia não é um pivô — é uma continuação.**
+Cada etapa abaixo é construída sobre a anterior.
 
 </div>
+
+<br/>
+
+| Etapa | Fase |
+|:--|:--|
+| 01 | Design Gráfico — fundamentos de composição, hierarquia e identidade visual |
+| 02 | UI/UX Design — interfaces, fluxos e experiência do usuário |
+| 03 | Front-end Engineering — transformar design em produto funcional |
+| 04 | **Agora** — aprofundando arquitetura, performance e IA aplicada ao código |
+
+<br/>
+
+<div align="center">
+
+### 🎯 Foco atual
+
+<img src="https://img.shields.io/badge/IA_aplicada_ao_desenvolvimento-FFFFFF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/TypeScript_avançado-FFFFFF?style=for-the-badge&labelColor=0D1117"/>
+<br/>
+<img src="https://img.shields.io/badge/Arquitetura_de_SaaS-FFFFFF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Design_Systems_escaláveis-FFFFFF?style=for-the-badge&labelColor=0D1117"/>
+<br/>
+<img src="https://img.shields.io/badge/Motion_UI-FFFFFF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Acessibilidade_(WCAG)-FFFFFF?style=for-the-badge&labelColor=0D1117"/>
+<img src="https://img.shields.io/badge/Performance_(Core_Web_Vitals)-FFFFFF?style=for-the-badge&labelColor=0D1117"/>
+
+</div>
+
+<br/>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**Como eu aprendo**
+
+Praticando todos os dias, construindo produtos reais para a Code Less, estudando documentação oficial e usando IA como par de engenharia — não como atalho, mas como acelerador de profundidade.
+
+</td>
+<td width="50%" valign="top">
+
+**Por que isso importa**
+
+Um front-end engineer com background em design entende a interface de dentro para fora. Esse é o profissional que quero ser: capaz de decidir e construir, não só um ou outro.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 🗺️ ROADMAP · OBJETIVOS PARA 2026
 
-- [ ] Lançar o **NAVEX Finance** em produção
-- [ ] Consolidar a **Code Less** como referência em produtos digitais premium
-- [ ] Aprofundar em **Design Systems** escaláveis e Motion UI
+- [ ] Aprofundar em **arquitetura front-end** e TypeScript avançado
+- [ ] Dominar **Design Systems** escaláveis e Motion UI
+- [ ] Estudar **IA aplicada ao desenvolvimento** na prática, todos os dias
+- [ ] Evoluir em **acessibilidade (WCAG)** e **performance** web
 - [ ] Contribuir com **projetos open-source**
 - [ ] Publicar **estudos de caso** de UI/UX e engenharia front-end
-- [ ] Evoluir em **acessibilidade** e **performance** web
 
 ---
 
