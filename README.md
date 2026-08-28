@@ -35,7 +35,7 @@ Meu nome é **Hugo**. Sou fundador da **Code Less**, um estúdio que projeta e c
 
 Minha carreira começou no **Design Gráfico**. Hoje migro deliberadamente para **Engenharia Front-end**, unindo design e programação em um único profissional capaz de pensar produto do início ao fim: identidade visual, experiência e implementação.
 
-Para mim, um bom produto não é apenas bonito. Ele é **rápido**, **escalável**, **bem estruturado** e **intuitivo** — e isso só acontece quando design e código trabalham juntos, não em silos.
+Para mim, um bom produto não é apenas bonito. Ele é **rápido**, **escalável**, **bem estruturado** e **intuitivo** e isso só acontece quando design e código trabalham juntos, não em silos.
 
 </td>
 <td width="40%" valign="top">
@@ -211,7 +211,7 @@ Cada etapa abaixo é construída sobre a anterior.
 
 **Como eu aprendo**
 
-Praticando todos os dias, construindo produtos reais para a Code Less, estudando documentação oficial e usando IA como par de engenharia — não como atalho, mas como acelerador de profundidade.
+Praticando todos os dias, construindo produtos reais para a Code Less, estudando documentação oficial e usando IA como par de engenharia não como atalho, mas como acelerador de profundidade.
 
 </td>
 <td width="50%" valign="top">
@@ -228,11 +228,10 @@ Um front-end engineer com background em design entende a interface de dentro par
 
 ## 🗺️ ROADMAP · OBJETIVOS PARA 2026
 
-- [ ] Aprofundar em **arquitetura front-end** e TypeScript avançado
+- [ ] Aprofundar em **arquitetura front-end**
 - [ ] Dominar **Design Systems** escaláveis e Motion UI
 - [ ] Estudar **IA aplicada ao desenvolvimento** na prática, todos os dias
 - [ ] Evoluir em **acessibilidade (WCAG)** e **performance** web
-- [ ] Contribuir com **projetos open-source**
 - [ ] Publicar **estudos de caso** de UI/UX e engenharia front-end
 
 ---
