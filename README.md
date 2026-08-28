@@ -31,7 +31,7 @@
 <tr>
 <td width="60%" valign="top">
 
-Meu nome é **Hugo**. Sou fundador da **Code Less**, um estúdio que projeta e constrói produtos digitais — de websites institucionais a sistemas SaaS completos.
+Meu nome é **Hugo**. Sou fundador da **Code Less**, um estúdio que projeta e constrói produtos digitais de websites institucionais a sistemas SaaS completos.
 
 Minha carreira começou no **Design Gráfico**. Hoje migro deliberadamente para **Engenharia Front-end**, unindo design e programação em um único profissional capaz de pensar produto do início ao fim: identidade visual, experiência e implementação.
 
